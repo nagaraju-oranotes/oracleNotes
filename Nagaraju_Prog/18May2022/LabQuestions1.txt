@@ -1,0 +1,11 @@
+1. Create a function to display 'Welcome to Oracle'. Function Name: wel_ora
+2. Create a function to return sume of 3 input values. Function Name: sum3
+3. Create a function average of two numbers. Function Name: avg2
+4. Create a function to convert give string into Upper case. Fun Name: toupper
+5. Create a function to return calculate total salary based on the below condition.
+    for Managers to add 1000 bonus
+	for clears to add 500 bonus
+	others to add 200 bonus
+	=> total salary = salary of employee + commision of employee + bounus amount
+	Need to display total value mandatory without null.
+6. Create a function to return biggest of two numbers.   Fun Name: big2
